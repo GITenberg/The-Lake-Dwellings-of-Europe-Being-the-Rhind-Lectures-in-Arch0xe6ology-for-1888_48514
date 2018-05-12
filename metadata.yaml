@@ -1,10 +1,16 @@
 _repo: The-Lake-Dwellings-of-Europe-Being-the-Rhind-Lectures-in-Arch0xe6ology-for-1888_48514
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48514-h/images/cover-image.jpg
 creator:
   author:
     agent_name: Munroe, Robert
     gutenberg_agent_id: '44829'
     url: http://www.gutenberg.org/2009/agents/44829
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48514#The-Lake-Dwellings-of-Europe-Being-the-Rhind-Lectures-in-Arch0xe6ology-for-1888
 gutenberg_issued: '2015-03-17'
 gutenberg_type: Text
 identifiers:
